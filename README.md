@@ -11,7 +11,7 @@ I'm currently building a dedicated portfolio website to present these projects m
 # Table of contents
 
   - [Showcase](#showcase)
-    - [React: Javascript library](react-javascript-library)
+    - [React: Javascript library](#react-javascript-library)
     - [Layouts: Flexbox & CSS Grid](#layouts-flexbox--css-grid)
     - [Fundamental Reinforcement: HTML & CSS Basics](#fundamental-reinforcement-html--css-basics)
   - [Skills & Resources](#skills--resources)
