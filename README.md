@@ -1,10 +1,10 @@
 # Overview
 
-Welcome to my personal portfolio of solutions for Frontend Mentor challenges! This repository serves as a centralized showcase of my progress and practical skills in building responsive and interactive user interfaces using various frontend technologies.
+Welcome! This repository showcases my personal solutions to Frontend Mentor challenges.  
+Each project reflects my hands-on practice with HTML, CSS, JavaScript (ES6), and React, focusing on responsive design, accessibility, and reusable components.
 
-My journey with Frontend Mentor allows me to continuously learn and apply best practices in modern web development, focusing on pixel-perfect designs, semantic HTML, accessible CSS, JavaScript ES6 and React.
-
-**Please note:** This README serves as a temporary showcase of my Frontend Mentor challenges. I am currently working on building a dedicated personal portfolio website where all my projects and learning journey will be comprehensively presented. Stay tuned!
+Working through these challenges helps me strengthen my frontend skills and apply real-world best practices.  
+I'm currently building a dedicated portfolio website to present these projects more comprehensively — stay tuned!
 
 ---
 
@@ -12,7 +12,7 @@ My journey with Frontend Mentor allows me to continuously learn and apply best p
 
   - [Showcase](#showcase)
     - [React: Javascript library](react-javascript-library)
-    - [Mastery in Layouts: Flexbox & CSS Grid](#mastery-in-layouts-flexbox--css-grid)
+    - [Layouts: Flexbox & CSS Grid](#layouts-flexbox--css-grid)
     - [Fundamental Reinforcement: HTML & CSS Basics](#fundamental-reinforcement-html--css-basics)
   - [Skills & Resources](#skills--resources)
   - [Connect with Me](#connect-with-me)
@@ -21,7 +21,8 @@ My journey with Frontend Mentor allows me to continuously learn and apply best p
 
 # **Showcase**
 
-Below is a curated list of Frontend Mentor challenges I've successfully completed, categorized by the core learning objectives or skills reinforced. Each section includes a brief overview, a visual representation, and direct links to both the live deployed version and its dedicated GitHub repository for a deeper dive into the code.
+Below is a list of challenges I've completed, grouped by the key skills they focus on.
+Each includes a short summary, preview image, and links to the live site and GitHub repo.
 
 ---
 
@@ -44,7 +45,7 @@ This challenge focuses on implementing state management in React along with inte
 
 --- 
 
-## Mastery in Layouts: Flexbox & CSS Grid
+## Layouts: Flexbox & CSS Grid
 
 These challenges were pivotal in solidifying my understanding and practical application of modern CSS layout techniques, specifically **Flexbox** and **CSS Grid**, essential for creating robust and responsive web designs.
 
