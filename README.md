@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio of solutions for Frontend Mentor challenges! This repository serves as a centralized showcase of my progress and practical skills in building responsive and interactive user interfaces using various frontend technologies.
 
-My journey with Frontend Mentor allows me to continuously learn and apply best practices in modern web development, focusing on pixel-perfect designs, semantic HTML, accessible CSS, and dynamic JavaScript functionalities.
+My journey with Frontend Mentor allows me to continuously learn and apply best practices in modern web development, focusing on pixel-perfect designs, semantic HTML, accessible CSS, JavaScript ES6 and React.
 
 **Please note:** This README serves as a temporary showcase of my Frontend Mentor challenges. I am currently working on building a dedicated personal portfolio website where all my projects and learning journey will be comprehensively presented. Stay tuned!
 
