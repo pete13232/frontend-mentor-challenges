@@ -11,9 +11,9 @@ My journey with Frontend Mentor allows me to continuously learn and apply best p
 # Table of contents
 
   - [Showcase](#showcase)
+    - [React: Javascript library](react-javascript-library)
     - [Mastery in Layouts: Flexbox & CSS Grid](#mastery-in-layouts-flexbox--css-grid)
     - [Fundamental Reinforcement: HTML & CSS Basics](#fundamental-reinforcement-html--css-basics)
-    - [React: Javascript library](react-javascript-library)
   - [Skills & Resources](#skills--resources)
   - [Connect with Me](#connect-with-me)
 
