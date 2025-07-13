@@ -1,4 +1,4 @@
-# My Frontend Mentor Challenges Portfolio
+# Overview
 
 Welcome to my personal portfolio of solutions for Frontend Mentor challenges! This repository serves as a centralized showcase of my progress and practical skills in building responsive and interactive user interfaces using various frontend technologies.
 
@@ -8,19 +8,47 @@ My journey with Frontend Mentor allows me to continuously learn and apply best p
 
 ---
 
-# **Frontend Mentor Solutions Showcase**
+# Table of contents
 
-## My Challenge Solutions by Learning Focus
+  - [Showcase](#showcase)
+    - [Mastery in Layouts: Flexbox & CSS Grid](#mastery-in-layouts-flexbox--css-grid)
+    - [Fundamental Reinforcement: HTML & CSS Basics](#fundamental-reinforcement-html--css-basics)
+    - [React: Javascript library](react-javascript-library)
+  - [Skills & Resources](#skills--resources)
+  - [Connect with Me](#connect-with-me)
+
+---
+
+# **Showcase**
 
 Below is a curated list of Frontend Mentor challenges I've successfully completed, categorized by the core learning objectives or skills reinforced. Each section includes a brief overview, a visual representation, and direct links to both the live deployed version and its dedicated GitHub repository for a deeper dive into the code.
 
 ---
 
-### Mastery in Layouts: Flexbox & CSS Grid Challenges
+## React: Javascript library
+
+These challenges cover the essential foundations of React, including component reuse and the use of React Hooks.
+
+#### 1. Product list with cart
+
+* **Live Demo:** [Link](https://myreact-shopping-cart.netlify.app/)
+* **GitHub Repository:** [Link](https://github.com/pete13232/react-shopping-cart)
+
+<div align="center">
+    <img src="./screenshots/react-shopping-cart/preview.jpg" alt="Screenshot of Challenge 1" width="650"/>
+</div>
+<br>
+
+> 📝**Overview:**
+This challenge focuses on implementing state management in React along with interactive and responsive design. It's a great practice to sharpen React fundamentals and UI/UX thinking.
+
+--- 
+
+## Mastery in Layouts: Flexbox & CSS Grid
 
 These challenges were pivotal in solidifying my understanding and practical application of modern CSS layout techniques, specifically **Flexbox** and **CSS Grid**, essential for creating robust and responsive web designs.
 
-#### 1. Meet landing page (Grid/Flexbox)
+#### 2. Meet landing page (Grid/Flexbox)
 
 * **Live Demo:** [Link](https://pete13232.github.io/meet-landing-page-challenge/)
 * **GitHub Repository:** [Link](https://github.com/pete13232/meet-landing-page-challenge)
@@ -30,12 +58,12 @@ These challenges were pivotal in solidifying my understanding and practical appl
 </div>
 <br>
 
-**Description:**
+> 📝**Overview:**
 This challenge involved building a fully responsive landing page with distinct layouts for mobile, tablet, and desktop breakpoints. I focused on implementing adaptive scaling for typography and spacing, ensuring optimal readability and visual consistency across all screen sizes.
 
 ---
 
-#### 2. Testimonials grid section (Grid/Flexbox)
+#### 3. Testimonials grid section (Grid/Flexbox)
 
 * **Live Demo:** [Link](https://pete13232.github.io/testimonials-grid-section/)
 * **GitHub Repository:** [Link](https://github.com/pete13232/testimonials-grid-section)
@@ -45,12 +73,12 @@ This challenge involved building a fully responsive landing page with distinct l
 </div>
 <br>
 
-**Description:**
+> 📝**Overview:**
 This challenge involved building a fully responsive review blog grid section with distinct layouts for mobile, tablet, and desktop breakpoints. I focused on implementing adaptive scaling for typography and spacing, ensuring optimal readability and visual consistency across all screen sizes.
 
 ---
 
-#### 3. Four card feature section (Grid/Flexbox)
+#### 4. Four card feature section (Grid/Flexbox)
 
 * **Live Demo:** [Link](https://pete13232.github.io/four-card-section-challenge/)
 * **GitHub Repository:** [Link](https://github.com/pete13232/four-card-section-challenge)
@@ -60,28 +88,13 @@ This challenge involved building a fully responsive review blog grid section wit
 </div>
 <br>
 
-**Description:**
+> 📝**Overview:**
 This challenge involved building a responsive card section with distinct layouts for mobile, tablet, and desktop breakpoints. I focused on implementing adaptive scaling for typography and spacing, ensuring optimal readability and visual consistency across all screen sizes.
 
 
 ---
 
-#### 4. Product preview card component (Grid/Flexbox)
-
-* **Live Demo:** [Link](https://pete13232.github.io/product-preview-card/)
-* **GitHub Repository:** [Link](https://github.com/pete13232/product-preview-card)
-
-<div align="center">
-    <img src="./screenshots/product_preview_challenge/preview.jpg" alt="Screenshot of Challenge 4" width="650"/>
-</div>
-<br>
-
-**Description:**
-This challenge involved building simple responsive card component with distinct layouts for mobile and desktop breakpoints.
-
----
-
-### Fundamental Reinforcement: HTML & CSS Basics
+## Fundamental Reinforcement: HTML & CSS Basics
 
 These challenges served as an excellent opportunity to revisit and strengthen my foundational knowledge in **HTML** and **CSS**, ensuring a solid understanding of semantic structuring, basic styling, and best practices.
 
@@ -95,8 +108,7 @@ These challenges served as an excellent opportunity to revisit and strengthen my
 </div>
 <br>
 
-**Description:**
-**Description:**
+> 📝**Overview:**
 This challenge served as an excellent opportunity to reinforce my fundamental understanding of HTML and CSS. It provided comprehensive practice in building semantic HTML structures, including the proper use of various elements like lists (`<li>`) and tables (`<table>`), along with effective application of CSS classes for styling.
 
 ---
@@ -107,23 +119,11 @@ This challenge served as an excellent opportunity to reinforce my fundamental un
 
 This portfolio demonstrates my experience with, but is not limited to, the following frontend technologies and concepts:
 
+* **Javascript**: DOM Manipulation, Javscript ES6.
 * **HTML5 & CSS3:** Semantic markup, BEM methodology, custom properties (CSS variables).
 * **Responsive Web Design:** Mobile-first approach, Flexbox, CSS Grid, media queries.
-* **Accessibility (A11y):** Basic principles, semantic HTML elements, ARIA attributes.
-* **Version Control:** Git & GitHub.
+* **React**: functional component, React Hook.
 * And more in the future.
-
----
-
-## How to View My Solutions
-
-Each challenge solution is deployed via GitHub Pages and linked above under "Live Demo". You can click on the "GitHub Repository" link for each project to view its dedicated codebase and a more detailed README, including project setup instructions and further insights.
-
----
-
-## What is Frontend Mentor?
-
-[Frontend Mentor](https://www.frontendmentor.io/) helps you improve my coding skills by building realistic projects. It provides professional designs and assets to build websites and applications, allowing developers to practice their skills and build up a professional portfolio.
 
 ---
 
@@ -133,4 +133,3 @@ Each challenge solution is deployed via GitHub Pages and linked above under "Liv
 * **LinkedIn:** https://www.linkedin.com/in/peetawit-vongchanapibul/
 * **Frontend Mentor:** https://www.frontendmentor.io/profile/pete13232
 
----
