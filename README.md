@@ -6,6 +6,8 @@ Each project reflects my hands-on practice with HTML, CSS, JavaScript (ES6), and
 Working through these challenges helps me strengthen my frontend skills and apply real-world best practices.  
 I'm currently building a dedicated portfolio website to present these projects more comprehensively — stay tuned!
 
+You can also find other projects and experiments in my repositories beyond the ones listed below — feel free to explore!
+
 ---
 
 # Table of contents
@@ -30,13 +32,29 @@ Each includes a short summary, preview image, and links to the live site and Git
 
 These challenges cover the essential foundations of React, including component reuse and the use of React Hooks.
 
-#### 1. Product list with cart
+
+#### 1. Mortgage Repayment Calculator
+
+* **Live Demo:** [Link](https://pete-mortgage-payment-calculator.netlify.app/)
+* **GitHub Repository:** [Link](https://github.com/pete13232/mortgage-repayment-calculator)
+
+<div align="center">
+    <img src="./screenshots/mortgage-repayment-calculator/preview.jpg" alt="Screenshot of Challenge 1" width="650"/>
+</div>
+<br>
+
+> 📝**Overview:**
+This challenge focuses on implementing form validation in React along with interactive and responsive design. It's a great practice to sharpen React fundamentals and UI/UX thinking.
+
+--- 
+
+#### 2. Product list with cart
 
 * **Live Demo:** [Link](https://myreact-shopping-cart.netlify.app/)
 * **GitHub Repository:** [Link](https://github.com/pete13232/react-shopping-cart)
 
 <div align="center">
-    <img src="./screenshots/react-shopping-cart/preview.jpg" alt="Screenshot of Challenge 1" width="650"/>
+    <img src="./screenshots/react-shopping-cart/preview.jpg" alt="Screenshot of Challenge 2" width="650"/>
 </div>
 <br>
 
@@ -49,13 +67,13 @@ This challenge focuses on implementing state management in React along with inte
 
 These challenges were pivotal in solidifying my understanding and practical application of modern CSS layout techniques, specifically **Flexbox** and **CSS Grid**, essential for creating robust and responsive web designs.
 
-#### 2. Meet landing page (Grid/Flexbox)
+#### 3. Meet landing page (Grid/Flexbox)
 
 * **Live Demo:** [Link](https://pete13232.github.io/meet-landing-page-challenge/)
 * **GitHub Repository:** [Link](https://github.com/pete13232/meet-landing-page-challenge)
 
 <div align="center">
-    <img src="./screenshots/responsive_landing_page_challenge/preview.jpg" alt="Screenshot of Challenge 1" width="650"/>
+    <img src="./screenshots/responsive_landing_page_challenge/preview.jpg" alt="Screenshot of Challenge 3" width="650"/>
 </div>
 <br>
 
@@ -64,13 +82,13 @@ This challenge involved building a fully responsive landing page with distinct l
 
 ---
 
-#### 3. Testimonials grid section (Grid/Flexbox)
+#### 4. Testimonials grid section (Grid/Flexbox)
 
 * **Live Demo:** [Link](https://pete13232.github.io/testimonials-grid-section/)
 * **GitHub Repository:** [Link](https://github.com/pete13232/testimonials-grid-section)
 
 <div align="center">
-    <img src="./screenshots/testimonial_grid_challenge/preview.jpg" alt="Screenshot of Challenge 2" width="650"/>
+    <img src="./screenshots/testimonial_grid_challenge/preview.jpg" alt="Screenshot of Challenge 4" width="650"/>
 </div>
 <br>
 
@@ -79,13 +97,13 @@ This challenge involved building a fully responsive review blog grid section wit
 
 ---
 
-#### 4. Four card feature section (Grid/Flexbox)
+#### 5. Four card feature section (Grid/Flexbox)
 
 * **Live Demo:** [Link](https://pete13232.github.io/four-card-section-challenge/)
 * **GitHub Repository:** [Link](https://github.com/pete13232/four-card-section-challenge)
 
 <div align="center">
-    <img src="./screenshots/four_card_grid_challenge/desktop-preview.jpg" alt="Screenshot of Challenge 3" width="650"/>
+    <img src="./screenshots/four_card_grid_challenge/desktop-preview.jpg" alt="Screenshot of Challenge 5" width="650"/>
 </div>
 <br>
 
@@ -99,13 +117,13 @@ This challenge involved building a responsive card section with distinct layouts
 
 These challenges served as an excellent opportunity to revisit and strengthen my foundational knowledge in **HTML** and **CSS**, ensuring a solid understanding of semantic structuring, basic styling, and best practices.
 
-#### 5. Recipe page (HTML/CSS Basic)
+#### 6. Recipe page (HTML/CSS Basic)
 
 * **Live Demo:** [Link](https://pete13232.github.io/recipe-page-challenge/)
 * **GitHub Repository:** [Link](https://github.com/pete13232/recipe-page-challenge)
 
 <div align="center">
-    <img src="./screenshots/recipe_page_challenge/preview.jpg" alt="Screenshot of Challenge 5" width="650"/>
+    <img src="./screenshots/recipe_page_challenge/preview.jpg" alt="Screenshot of Challenge 6" width="650"/>
 </div>
 <br>
 
